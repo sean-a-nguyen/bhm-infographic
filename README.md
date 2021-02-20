@@ -22,5 +22,5 @@ The Python libraries I used in this project are pandas, numpy, and matplotlib. T
 ### Sources
 - Income and Poverty: [https://www.census.gov/data/tables/2020/demo/income-poverty/p60-270.html](https://www.census.gov/data/tables/2020/demo/income-poverty/p60-270.html)
 - Wealth: [https://www.census.gov/data/tables/2017/demo/wealth/wealth-asset-ownership.html](https://www.census.gov/data/tables/2017/demo/wealth/wealth-asset-ownership.html)
-- [https://www.investopedia.com/financial-edge/0912/which-income-class-are-you.aspx#:~:text=The 2018 piece from Pew,a three-person household](https://www.investopedia.com/financial-edge/0912/which-income-class-are-you.aspx#:~:text=The 2018 piece from Pew,a three-person household)
+- [https://www.investopedia.com/financial-edge/0912/which-income-class-are-you.aspx#:~:text=The%202018%20piece%20from%20Pew,a%20three%2Dperson%20household](https://www.investopedia.com/financial-edge/0912/which-income-class-are-you.aspx#:~:text=The%202018%20piece%20from%20Pew,a%20three%2Dperson%20household)
 - [https://www.nccp.org/demographic/](https://www.nccp.org/demographic/)
