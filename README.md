@@ -1,6 +1,6 @@
 # bhm-infographic
 
-![](Downloads/infographic.png?raw=true)
+<img src="infographic.png" width="800" />
 
 ### Overview
 Given the U.S. Census Bureau, Current Population Survey, 1968 to 2020 about income, wealth, and poverty, this infographic had the purpose of reporting the results, specifically showcasing the disparities between blacks and other races. Important note that this data and infographic is not a complete, accurate representation of the United States as a whole. It is based on this data alone.
